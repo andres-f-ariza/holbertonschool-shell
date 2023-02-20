@@ -26,3 +26,6 @@ File: 6-create_local_variable
 Create a script that creates a new local variable.
 Name: BEST
 Value: School
+
+File: 7-create_global_variable
+Create a script that creates a new global variable.
